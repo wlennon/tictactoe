@@ -1,2 +1,2 @@
 # My TicTacToe Program
-This is my TicTacToe program yall
+This is my TicTacToe program
